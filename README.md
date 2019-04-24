@@ -1,6 +1,7 @@
 # mobile
 
-> A Vue.js project
+>一个Vue.js项目
+移动端项目模板
 
 ## Build Setup
 
