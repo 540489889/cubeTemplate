@@ -1,7 +1,7 @@
 # mobile
 
 >一个Vue.js项目
-移动端项目模板
+移动端cube-ui项目模板
 
 ## Build Setup
 
